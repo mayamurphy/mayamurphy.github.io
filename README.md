@@ -9,6 +9,7 @@ I used Github for the following courses:
   - CS221 -- Intro to Java II
   - CS253 -- Intro to C
   - CS321 -- Data Structures (Java)
+  - CS361 -- Intro to Theory Of Computation (Java)
   - CS354 - Programming Languages
     - Smalltalk
     - Prolog
